@@ -1,0 +1,18 @@
+# Versioning
+
+## General approach
+Use clear versions that are easy to recognize while working conversationally.
+
+Recommended patterns:
+- `v1`, `v2`, `v3`
+- `2A`, `2B` when iterating from a major version
+
+Examples:
+- `koss-quiet-waves-v2.js`
+- `koss-sound-heavy-2A.js`
+- `top-hat-comet-v1.py`
+
+## Status meanings
+- `stable` = dependable current version
+- `experimental` = under active development
+- `archived` = saved older version
